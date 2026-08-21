@@ -16,6 +16,8 @@
 
 - 🐧 **Linux Systems & CLI:** Deepening low-level shell scripting, core system utilities, system administration and terminal automation.
 - 🐳 **Containerization with Docker:** Practicing container deployment, multi-stage builds, and environment isolation.
+- 📊 **Data Science & Analytics:** Deepening skills in Advanced SQL (analytic functions), Pandas, Geospatial Analysis, and Time Series forecasting.
+- 🧠 **Machine Learning & AI:** Expanding intermediate ML techniques (data leakage, missing values handling), Deep Learning with TensorFlow/Keras, and Game AI with Reinforcement Learning.
 
 ---
 
