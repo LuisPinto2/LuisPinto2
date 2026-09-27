@@ -14,10 +14,9 @@
 
 ### 🌱 Currently Exploring
 
-- 🐧 **Linux Systems & CLI:** Deepening low-level shell scripting, core system utilities, system administration and terminal automation.
-- 🐳 **Containerization with Docker:** Practicing container deployment, multi-stage builds, and environment isolation.
-- 📊 **Data Science & Analytics:** Deepening skills in Advanced SQL (analytic functions), Pandas, Geospatial Analysis, and Time Series forecasting.
-- 🧠 **Machine Learning & AI:** Expanding intermediate ML techniques (data leakage, missing values handling), Deep Learning with TensorFlow/Keras, and Game AI with Reinforcement Learning.
+- 🌐 **Distributed Systems & Networking:** Deepening my knowledge in concurrency, socket programming, network serialization, and IPC mechanisms in C.
+- 🧠 **Artificial Intelligence & Theory:** Exploring core AI paradigms, search algorithms, state spaces, formal languages, and computational complexity.
+- 📊 **Machine Learning & Data Classification:** Mastering supervised learning algorithms — Decision Trees, k-NN, Naive Bayes, Neural Networks, Ensemble methods, and model evaluation techniques.
 
 ---
 
@@ -90,7 +89,10 @@
 
 - 🐳 **Docker Essentials: A Developer Introduction** — _IBM Developer Skills Network (2026)_
 - 📊 **Big Data 101** — _IBM Developer Skills Network (2026)_
-
+- 🐘 **Advanced SQL** — _Kaggle (2026)_
+- 🗺️ **Geospatial Analysis** — _Kaggle (2026)_
+- 🐼 **Pandas** — _Kaggle (2026)_
+- 
 ---
 
 <p align="center">
