@@ -92,7 +92,7 @@
 - 🐘 **Advanced SQL** — _Kaggle (2026)_
 - 🗺️ **Geospatial Analysis** — _Kaggle (2026)_
 - 🐼 **Pandas** — _Kaggle (2026)_
-- 
+
 ---
 
 <p align="center">
