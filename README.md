@@ -88,6 +88,7 @@
 ### 📜 Certifications
 
 - 🐳 **Docker Essentials: A Developer Introduction** — _IBM Developer Skills Network (2026)_
+- 🎯 **DataScience: Classification** — _Instituto Superior Técnico / MOOC Técnico (2026)_
 - 📊 **Big Data 101** — _IBM Developer Skills Network (2026)_
 - 🐘 **Advanced SQL** — _Kaggle (2026)_
 - 🗺️ **Geospatial Analysis** — _Kaggle (2026)_
