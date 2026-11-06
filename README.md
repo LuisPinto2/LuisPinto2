@@ -7,15 +7,18 @@
 ### 💡 Quick Overview
 
 - 🎓 B.Sc. Software Engineering Student @ FCUL.
-- 🛠️ Working across systems, data/ML models, and interactive software.
+- 🔬 Undergraduate Researcher @ LASIGE (Medical AI & Deep Learning).
+- 🛠️ Working across systems, data/ML pipelines, and interactive software.
 - 📍 Based in Lisbon, Portugal.
+
 
 ---
 
 ### 🌱 Currently Exploring
 
+- 🧠 **Medical AI & Deep Learning (LASIGE):** Developing PyTorch CNN pipelines and studying generative models (VAEs, AEs, GANs) applied to 3D tomographic data (NIfTI, CT/PET).
 - 🌐 **Distributed Systems & Networking:** Deepening my knowledge in concurrency, socket programming, network serialization, and IPC mechanisms in C.
-- 🧠 **Artificial Intelligence & Theory:** Exploring core AI paradigms, search algorithms, state spaces, formal languages, and computational complexity.
+- 🖥️ **Theoretical Computer Science & AI:** Formal languages, computational complexity, automata theory, and core AI search algorithms.
 - 📊 **Machine Learning & Data Classification:** Mastering supervised learning algorithms — Decision Trees, k-NN, Naive Bayes, Neural Networks, Ensemble methods, and model evaluation techniques.
 
 ---
@@ -39,6 +42,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
 ---
 
